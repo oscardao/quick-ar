@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="window" size="0.200000 0.149947" />
+    <ImageTarget name="glass_smash" size="0.200000 0.114167" />
+    <ImageTarget name="headphone" size="0.200000 0.200000" />
+    <ImageTarget name="bulb" size="0.200000 0.200000" />
+    <ImageTarget name="wrist_watch" size="0.200000 0.200000" />
+  </Tracking>
+</QCARConfig>
